@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ataraxia1001&show_icons=true&theme=tokyonight)
+
 
 
 
@@ -14,6 +14,9 @@
 
 
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ataraxia1001&show_icons=true&theme=tokyonight)
+
+
 **Ataraxia1001/Ataraxia1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
