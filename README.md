@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ataraxia1001&show_icons=true&theme=tokyonight)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ataraxia1001&layout=compact&theme=tokyonight)
+
+
+
+</div>
+
+
 <!--
 **Ataraxia1001/Ataraxia1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
