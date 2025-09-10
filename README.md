@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jiyong</h1>
+<h1 align="center">Hi 👋, I'm Ataka</h1>
 <h3 align="left">AI researcher</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
